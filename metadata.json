@@ -1,0 +1,5 @@
+{
+  "name": "ProphetEstate",
+  "description": "A hybrid AI house price prediction platform combining client-side Linear Regression training with Gemini 2.5 Flash for market context.",
+  "requestFramePermissions": []
+}
